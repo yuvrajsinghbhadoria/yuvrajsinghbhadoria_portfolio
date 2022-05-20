@@ -10,7 +10,10 @@ this is a project I did for my Major project of my B.tech degree, where i build 
 * plot - scatter plot, bar graph, pie graph,pair plot,sub plot.
 * Get to know that about 90% indian population still depend on gasoline and diesel engine vehicle . 
 
-## Overview of pair plot of dispalcement,Ex_showroom_price and fuel type ![](image/image12.png) ## overview of scatter plot of displacement and price ![](image/image11.png) ## overview of Scatter plot 3d plot ![](image/newplot.png) ## overview of cars count by engine fuel tank ![](image/image10.png)
+## Overview of pair plot of dispalcement,Ex_showroom_price and fuel type ![](image/image12.png) 
+## overview of scatter plot of displacement and price ![](image/image11.png) 
+## overview of Scatter plot 3d plot ![](image/newplot.png) 
+## overview of cars count by engine fuel tank ![](image/image10.png)
 
 
 # [Project 2: Sales_insight_Tableau](https://github.com/yuvrajsinghbhadoria/sales_insight_using_tabeau)
